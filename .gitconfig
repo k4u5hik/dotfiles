@@ -1,4 +1,11 @@
+[user]
+	name = Kaushik Chemburkar
+	email = attherate@gmail.com
+
 [alias]
+
+	# Info
+	personal = "!git config --local user.email “attherate”@gmail.com; git config --local user.name “Kaushik Chemburkar“"
 
 	# View abbreviated SHA, description, and history graph of the latest 20 commits.
 	l = log --pretty=oneline -n 20 --graph --abbrev-commit
