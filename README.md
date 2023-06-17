@@ -1,4 +1,6 @@
-# Mathias’s dotfiles
+# Kaushik’s dotfiles
+
+Forked from mathiasbynens
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
 
